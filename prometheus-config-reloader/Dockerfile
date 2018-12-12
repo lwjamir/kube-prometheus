@@ -1,2 +1,2 @@
-FROM quay.io/coreos/prometheus-config-reloader:v0.26.0
+FROM quay.io/coreos/prometheus-config-reloader:v0.25.0
 MAINTAINER LWJ
